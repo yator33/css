@@ -1,0 +1,18 @@
+.title{
+    color: red;
+}
+/* using classes */
+.subtitle{
+    color: blue;
+}
+/* using id */
+#about-us-image{
+    width: 300px;
+}
+h2:hover{
+    color: red;
+}
+
+ul:first-child{
+    color: brown;
+}
